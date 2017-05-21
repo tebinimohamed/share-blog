@@ -4,7 +4,7 @@
 </br></br><h6>Titre de l’ouvrage :</h6></br></br>
 
 
-<center><?php the_title();?></center>
+<center><a href src="#" ><?php the_title();?></a></center>
 
 
   <center><?php the_content(); ?></center>
